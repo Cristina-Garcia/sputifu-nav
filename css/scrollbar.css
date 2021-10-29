@@ -1,0 +1,13 @@
+::-webkit-scrollbar {
+  background: cadetblue;
+  inline-size: 0.5rem;
+  block-size: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--gray60);
+}
+
+::-webkit-scrollbar-track {
+  background: var(--gray50);
+}
